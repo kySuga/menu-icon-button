@@ -6,7 +6,7 @@ I first sketched a few concepts out on paper.
 
 Then I sought out a font that was easy to read at nearly any size. I did my findings of fonts through Google Fonts and ultimately landed on [Lexend Zetta](https://fonts.google.com/specimen/Lexend+Zetta).
 
-Lexend Zetta is a part of the [Lexend](https://www.lexend.com/) font family, created by Bonnie Shaver-Troup and [Thomas Jockin](https://github.com/ThomasJockin/lexend). The purpose of the font lined up near perfectly for what I was looking for in a font. I did do some minor tweaking to the font, most notably to the ‘E’. Hope you're cool with that Thomas, but thanks for making an awesome font!
+Lexend Zetta is a part of the [Lexend](https://www.lexend.com/) font family, created by Dr. Bonnie Shaver-Troup and [Thomas Jockin](https://github.com/ThomasJockin/lexend). The purpose of the font lined up near perfectly for what I was looking for in a font. I did do some minor tweaking to the font, most notably to the ‘E’. Hope you're cool with that Thomas, but thanks for making an awesome font!
 
 Once I found the font to use, I then jumped into [Affinity Designer](https://affinity.serif.com/en-us/designer/) to create my concept digitally.
 
