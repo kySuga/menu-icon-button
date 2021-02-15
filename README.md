@@ -14,7 +14,7 @@ Having wanting to learn more about making and using [SVG’s](https://css-tricks
 
 I also wanted it to be [accessible](https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/).
 
-Hamburger Menu Button on [CodePen](https://codepen.io/kySuga/pen/NWRdbLW)
+My take of the Hamburger Menu Button on [CodePen](https://codepen.io/kySuga/pen/NWRdbLW)
 
 
 ### Reasons Behind the Concept
